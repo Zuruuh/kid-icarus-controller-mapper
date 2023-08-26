@@ -1,0 +1,1 @@
+I wanted to play kid icarus uprising on the citra 3ds emulator but the touchscreen controls where horrible and I wanted to play with a controller but there was no native/easy way of doing it so I coded this python script to "bind" my controller right stick to the touchscreen (in short)
