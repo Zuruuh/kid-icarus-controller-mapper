@@ -1,0 +1,7 @@
+evdev==1.6.1
+pyjoystick==1.2.4
+pynput==1.7.6
+PySDL2==0.9.16
+python-xlib==0.33
+resource-man==2.2.8
+six==1.16.0
